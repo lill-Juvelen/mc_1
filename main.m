@@ -136,5 +136,7 @@ plot(x(1:end-1), ds)
 plot(x, c(x))
 plot(x(1:end-1), ds)
 
+%% IS
+tau = 
 
 
